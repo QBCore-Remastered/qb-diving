@@ -1,0 +1,15 @@
+{
+    "error": {
+        "canceled": "Anulowano",
+        "no_coral": "Nie masz żadnych koralowców do sprzedania..."
+    },
+    "info": {
+        "collecting_coral": "Zbieranie koralowców",
+        "diving_area": "Obszar nurkowania",
+        "collect_coral": "Zbierz koralowce",
+        "collect_coral_dt": "[E] - Zbierz koralowce",
+        "checking_pockets": "Sprawdzanie ekwipunku pod kątem koralowców do sprzedania...",
+        "sell_coral": "Sprzedaj koralowce",
+        "sell_coral_dt": "[E] - Sprzedaj koralowce"
+    }
+}
